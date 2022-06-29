@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Gruppo&family=Monoton&family=Oldenburg&display=swap');
 
 body {
-  background-image: url('/assets/bokeskogen.jpg');
+  background-image: url('./assets/bokeskogen.jpg');
   background-repeat: no-repeat;
   background-size: cover; 
   backdrop-filter: blur(2px);  
