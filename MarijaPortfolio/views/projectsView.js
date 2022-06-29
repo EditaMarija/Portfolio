@@ -19,7 +19,7 @@ function projectsView() {
             
                     <div>
                       <div class="post">
-                        <img class="thumbnail" src="/assets/todo.png">
+                        <img class="thumbnail" src="./assets/todo.png">
                         <div class="post-preview">
                           <h3 class="post-title">To Do List</h3>
                           <p class="post-intro">A simple todo list app built in HTML, CSS and JavaScript</p>
@@ -30,7 +30,7 @@ function projectsView() {
             
                     <div>
                       <div class="post">
-                        <img class="thumbnail" src="/assets/omnifood.png">
+                        <img class="thumbnail" src="./assets/omnifood.png">
                         <div class="post-preview">
                           <h3 class="post-title">Omnifood</h3>
                           <p class="post-intro">Website project created following an Udemy course</p>
@@ -41,7 +41,7 @@ function projectsView() {
             
                     <div>
                       <div class="post">
-                        <img class="thumbnail" src="/assets/rgb.png">
+                        <img class="thumbnail" src="./assets/rgb.png">
                         <div class="post-preview">
                           <h3 class="post-title">RGB Color Game</h3>
                           <p class="post-intro">Guessing game with values of RGB colors</p>
