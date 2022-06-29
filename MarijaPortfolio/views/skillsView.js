@@ -19,7 +19,7 @@ function skillsView() {
             
                     <div>
                       <div class="post">
-                        <img class="thumbnail2" src="/assets/logo.png">
+                        <img class="thumbnail2" src="./assets/logo.png">
                         
                       </div>
                     </div>
